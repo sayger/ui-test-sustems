@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/unity-ui-extensions/Examples/FancyScrollView/03_InfiniteScroll/03_InfiniteScroll.unity
+  isLoaded: 1
+  isActive: 1
